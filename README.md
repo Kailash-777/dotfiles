@@ -1,2 +1,2 @@
 # dotfiles
-Arch dots
+bspwm config files
